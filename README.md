@@ -30,7 +30,7 @@ yarn run ios
 ### Screen Recording
 
 
-<video src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/recording-1.mp4" controls width="640" height="480"></video>
+<video src="https://github.com/majid-cj/assets/raw/refs/heads/master/recording-1.mp4" controls width="640" height="480"></video>
 
 
 ### Screens
